@@ -13,4 +13,5 @@ def main():
         previous = reports[i]
     print(ctr)
 
-main()
+if __name__ == "__main__":
+    main()
