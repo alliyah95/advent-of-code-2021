@@ -19,5 +19,6 @@ def main():
     report = read_inputs("input.txt")
     data = [int(b, 2) for b in calculate(report)]
     print(data[0] * data[1])
-    
-main()
+
+if __name__ == "__main__":    
+    main()
