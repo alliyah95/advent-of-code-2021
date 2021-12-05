@@ -53,5 +53,6 @@ def main():
             indiv_boards = []
     
     bingo(nums, boards)
-    
-main()
+
+if __name__ == "__main__":    
+    main()
