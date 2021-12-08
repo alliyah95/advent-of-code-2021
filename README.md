@@ -15,3 +15,8 @@
 ## Day 4: Giant Squid 🦑
 - Part 1: `29440`
 - Part 2: `13884`
+
+## Day 5: Hydrothermal Venture 🔥
+
+## Day 6: Lanternfish 🐟
+- Part 1: `350917`
