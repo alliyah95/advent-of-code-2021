@@ -17,13 +17,13 @@
 - Part 2: `13884`
 
 ## Day 5: Hydrothermal Venture 🔥
-- Part 1: ``
-- Part 2: ``
+- Part 1: ` `
+- Part 2: ` `
 
 ## Day 6: Lanternfish 🐟
 - Part 1: `350917`
 - Part 2: 
 
-## Day 6: The Treachery of Whales 🐳
+## Day 7: The Treachery of Whales 🐳
 - Part 1: `341534`
-- Part 2: ``
+- Part 2: ` `
